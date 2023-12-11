@@ -10,7 +10,7 @@ This step converts raw BCL files located in the specified bcl directory to the s
 
 Step 2: Alignment to Reference Genome
 Tool Used: Bowtie2
-DeThis step aligns the converted FASTQ reads to a reference genome sequence, enabling the identification of the genomic locations of the sequenced fragments.
+This step aligns the converted FASTQ reads to a reference genome sequence, enabling the identification of the genomic locations of the sequenced fragments.
 
 Step 3: Variant Calling
 Tool Used: GATK (Genome Analysis Toolkit)
