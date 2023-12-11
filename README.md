@@ -1,7 +1,1 @@
-#This is a nextflow script/workflow that that performs initial steps in genomic data processing.
-
-The workflow works by converting bcl file input to fastq format
-
-Aligns the reads to a reference genome sequence.
-
-Perfoms variant calling.
+This is a Nextflow workflow which perform the initial steps in genomic data processing, including the conversion of BCL (Base Call) files to FASTQ format, alignment of reads to a reference genome sequence, and variant calling. The workflow utilizes various bioinformatics tools for each step.
